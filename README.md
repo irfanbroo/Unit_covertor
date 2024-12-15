@@ -4,7 +4,7 @@
 This project is a simple and efficient unit converter application for Android. It allows users to convert length in metre to inches.
 
 ## Features
-- Conversion of various units including length, weight, temperature, volume, and more
+- Conversion of length from metre -> inches
 - Intuitive and user-friendly interface
 - Instant and accurate conversions
 
