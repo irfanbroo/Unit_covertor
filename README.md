@@ -1,7 +1,7 @@
 
 # Unit Converter
 
-This project is a simple and efficient unit converter application for Android. It allows users to convert various units of measurement, such as length, weight, temperature, and more, with ease.
+This project is a simple and efficient unit converter application for Android. It allows users to convert length in metre to inches.
 
 ## Features
 - Conversion of various units including length, weight, temperature, volume, and more
